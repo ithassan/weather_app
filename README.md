@@ -41,7 +41,7 @@ git clone https://github.com/ithassan/weather_app.git
 
 ## 📸 Screenshots
 
-Add app screenshots here.
+None.
 
 ---
 
