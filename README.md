@@ -43,6 +43,8 @@ git clone https://github.com/ithassan/weather_app.git
 
 Add app screenshots here.
 
+---
+
 ## 👨‍💻 Author
 
 Hassan  
@@ -50,6 +52,7 @@ Android Developer
 
 GitHub: https://github.com/ithassan
 
+---
 
 ## ⭐ Support
 
